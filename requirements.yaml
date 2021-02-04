@@ -1,0 +1,7 @@
+dependencies:
+  - name: stt4-frontend-chart
+    repository: https://artifactory.dagility.com/artifactory/helm/
+    version: 0.1.0
+  - name: stt4-backend-chart
+    repository: https://artifactory.dagility.com/artifactory/helm/
+    version: 0.1.0
